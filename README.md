@@ -1,4 +1,4 @@
-#Pertemuan7
+# Pertemuan7
 
 **Nama  : Fery Affandi** <br>
 **NIM   : 312010018** <br>
@@ -81,4 +81,4 @@ Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendap
 ![hasil1-2](foto/hasil1-2.png)
 
 
-#TERIMAKASIH
+# TERIMAKASIH
